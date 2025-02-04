@@ -20,7 +20,7 @@ Use your knowledge of object-oriented programming, two-dimensional (2D) arrays, 
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](UML.png)
 
 ## Video
 
@@ -32,7 +32,7 @@ Record a short video of your story to display here on your README. You can do th
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](https://youtu.be/6M9EhKlB7A8)
+[![Thumbnail for my projet](Thumbnail.png)](https://youtu.be/6M9EhKlB7A8)
 
 ## Story Description
 
